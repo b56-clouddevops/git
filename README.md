@@ -82,11 +82,9 @@ Git and Linux are like oceans, infinite things are there to learn. Both of them 
 
 #### GIT Has Branch Protection Rules Enabled to ensure you cannot push your changes directly to the MAIN Branch and always changes has to go through Pull Request only.
 
-
-
 ### Command to give a name in your commit history 
 
 ```
-    git config --global user.name "CodingManoj"
-    git config --global user.email "CodingManoj@gmail.com"
+        git config --global user.name "CodingManoj"
+        git config --global user.email "CodingManoj@gmail.com"
 ```
